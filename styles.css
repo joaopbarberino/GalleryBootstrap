@@ -1,0 +1,52 @@
+/* VERDE: 00FF68 */
+body {
+    background-color: #005120;
+}
+.navbar-default .navbar-nav > li > a, a {
+    color: white;
+}
+
+.navbar{
+    background-color: #00FF68;
+    font-weight: 500;
+}
+.navbar-toggle{
+    background-color: #003d18;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #005120;
+}
+.navbar-default .navbar-header .navbar-brand > a:hover {
+    background-color: white;
+}
+.navbar-brand > span, .navbar-default .navbar-brand {
+    color: #005120;
+}
+
+.jumbotron{
+    background-color: #003d18;
+    color: white;
+    font-weight: 500;
+    margin-top: 5em;
+    padding: 2em;
+}
+
+.jumbotron i {
+    color: #00FF68;
+}
+.jumbotron > p {
+    font-weight: 500;
+}
+
+a:hover{
+    color: #003d18;
+    text-decoration: none;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
+
+.navbar-toggle:hover {
+    background-color: white;
+}
